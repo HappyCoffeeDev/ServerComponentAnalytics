@@ -1,7 +1,7 @@
 from datetime import datetime
 from pathlib import Path
 
-VERSION = 2.2
+VERSION = 2.3
 
 
 def main():

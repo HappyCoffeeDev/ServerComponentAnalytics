@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## [v2.3](https://github.com/HappyCoffeeDev/ServerComponentAnalytics/releases/tag/v2.3) - 2024-06-28
+
 ## [v2.2](https://github.com/HappyCoffeeDev/ServerComponentAnalytics/releases/tag/v2.2) - 2024-06-28
 
 ## [v2.1](https://github.com/HappyCoffeeDev/ServerComponentAnalytics/releases/tag/v2.1) - 2024-06-28
