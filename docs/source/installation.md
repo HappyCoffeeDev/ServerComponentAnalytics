@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**ServerComponentAnalytics** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**ServerComponentAnalytics** is available [on PyPI](https://pypi.org/project/ServerComponentAnalytics/). Just run
 
 ```bash
-pip install my-package
+pip install ServerComponentAnalytics
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **ServerComponentAnalytics** from source, first clone [the repository](https://github.com/HappyCoffeeDev/ServerComponentAnalytics):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/HappyCoffeeDev/ServerComponentAnalytics.git
+cd ServerComponentAnalytics
 ```
 
 Then run
