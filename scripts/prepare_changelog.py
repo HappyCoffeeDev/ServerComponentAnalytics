@@ -1,7 +1,7 @@
 from datetime import datetime
 from pathlib import Path
 
-from ServerComponentAnalytics.version import VERSION
+VERSION = 2.1
 
 
 def main():
